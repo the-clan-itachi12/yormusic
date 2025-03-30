@@ -50,7 +50,7 @@ pyshorteners
 pyttsx3
 pytz
 pytube
-py-tgcalls==0.9.7
+py-tgcalls==2.1.1
 pyyaml
 qrcode
 requests
